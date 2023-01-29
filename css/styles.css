@@ -8,9 +8,20 @@ text-decoration: none;
 
 .nav-list-link-act:hover,
 .nav-list-link-act:focus,
-.nav-list-link:hover,
-.nav-list-link:focus, {
+{
 font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 1.14;
+letter-spacing: 0.02em;
+color: #2196F3;
+}
+
+.nav-list-link:hover,
+.nav-list-link:focus,
+{
+font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
 font-size: 14px;
