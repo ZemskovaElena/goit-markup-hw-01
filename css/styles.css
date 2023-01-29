@@ -7,7 +7,9 @@ text-decoration: none;
 }
 
 .nav-list-link-act:hover,
-.nav-list-link-act:focus {
+.nav-list-link-act:focus,
+.nav-list-link:hover,
+.nav-list-link:focus, {
 font-family: 'Roboto', sans-serif;
 font-style: normal;
 font-weight: 500;
